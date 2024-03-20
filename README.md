@@ -9,4 +9,4 @@
 
 <br />
 
-### Most of my repos are Private :(
+### I use this platform everyday, if you couldn't tell
