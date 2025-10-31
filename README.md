@@ -4,8 +4,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png" style="max-width: 100%;">
 <img align="left" alt="Node.js" width="26px" src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/tableau-integration-logo.png?fit=376%2C376&amp;ssl=1" style="max-width: 100%;">
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" style="max-width: 100%;">
-<img align="left" alt="Node.js" width="26px" src="https://www.solve100.com/wp-content/uploads/2018/10/kisspng-qlik-business-intelligence-software-dashboard-logo-5ae077243192b0.0334082715246600042031.jpg" style="max-width: 100%;">
-<img align="left" alt="Node.js" width="26px" src="https://img.stackshare.io/service/1651/ma2jqJKH_400x400.png" style="max-width: 100%;">
+
 
 <br />
 
